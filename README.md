@@ -19,8 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
+## Sorting
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
