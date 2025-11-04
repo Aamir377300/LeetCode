@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Aamir377300/LeetCode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aamir377300/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aamir377300/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Aamir377300/LeetCode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
