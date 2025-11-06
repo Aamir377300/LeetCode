@@ -1,64 +1,86 @@
-// O(log n) ask so we must have use the binary search sorting algorithm
+// class Solution {
+//     public int[] searchRange(int[] nums, int target) {
+//         int first = -1, last = -1;
+
+//         for (int i = 0; i < nums.length; i++) {
+//             if (nums[i] == target) {
+//                 if (first == -1) first = i; // first occurrence
+//                 last = i; // keeps updating till last occurrence
+//             }
+//         }
+
+//         return new int[]{first, last };
+//     }
+// }
+
+// class Solution {
+//     public int[] searchRange(int[] nums, int target) {
+//         int arr[] = {-1, -1};
+//         int i=0;
+
+//         int left=0; 
+//         int right = nums.length-1;
 
 
-// there can be multiple duplicate but you only have to return first and last occurace from the duplicates like [1.2.2,3.2] => [1.4]
+//         while(left<= right){
+//             int mid = left + (right - left)/2;
 
-// the first occurance must be in the left side of the mid 
-// the last occurance must be in the right side of the mid
+//             if(nums[mid] == target){
+//                 arr[i] = mid;
+//                 i++;
+//             }
+//             if(nums[mid] <target){
+//                 left = mid +1;
+//             }
+//             if(nums[mid]>target){
+//                 right = mid -1;
+//             }
 
-// we make two for finding the occurance's
+//         }
+
+//         return arr;
+//     }
+// }
+
+
+// the above is wrong due to the one binary serarch is give us one finding element, so for this we have to create two binary search
 
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = findFirst(nums, target);
-        int last = findLast(nums, target);
-
-        return new int[] {first, last};
+        return new int[]{firstPos(nums, target), lastPos(nums, target)};
     }
 
-    public int findFirst(int[] nums, int target){
-        int left =0;
-        int right = nums.length-1;
-        int first_value = -1;
-
-        while(left <= right){
-            int mid = left + (right - left)/2;
-
-            if(nums[mid] == target){
-                first_value = mid;
-                // we have find the first occurance, so there is chance they can be present at the leftest to the middle 
-                right = mid -1;
-            }
-            else if(nums[mid]< target){
-                left = mid +1;
-            }
-            else{
-                right = mid - 1;
-            }
-
-        }
-
-        return first_value;
-    }
-
-    public int findLast(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-        int last_value = -1;
-
+    public int firstPos(int[] nums, int target) {
+        int left = 0, right = nums.length - 1, first = -1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-
             if (nums[mid] == target) {
-                last_value = mid;   
-                // we have find the last occurance, so there is chance they can be present at the rightest to the middle      
-                left = mid + 1;    
+                first = mid;
+                // ask gpt why we do this 
+                right = mid - 1; // keep searching left
             } else if (nums[mid] < target) {
                 left = mid + 1;
             } else {
                 right = mid - 1;
             }
         }
-        return last_value;
+        return first;
+    }
+
+    public int lastPos(int[] nums, int target) {
+        int left = 0, right = nums.length - 1, last = -1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] == target) {
+                last = mid;
+                // ask gpt why we do this 
+                left = mid + 1; // keep searching right
+            } else if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+        return last;
     }
 }
