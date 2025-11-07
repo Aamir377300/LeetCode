@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aamir377300/LeetCode/tree/master/0002-add-two-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aamir377300/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aamir377300/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aamir377300/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aamir377300/LeetCode/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
