@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aamir377300/LeetCode/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Recursion
 |  |
