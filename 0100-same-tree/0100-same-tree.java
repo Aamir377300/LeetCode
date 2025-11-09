@@ -66,10 +66,16 @@ class Solution {
         }
 
 
-
         boolean left_wali_tree = isSameTree(p.left, q.left); 
         boolean right_wali_tree = isSameTree(p.right, q.right);
 
-return left_wali_tree && right_wali_tree; 
+    return left_wali_tree && right_wali_tree; 
     }
 }
+
+//                            isSameTree(1,1)
+//                           /               \
+//          isSameTree(2,2)                     isSameTree(3,3)
+//            /        \                          /         \
+// isSameTree(null,null) isSameTree(null,null)  isSameTree(null,null) isSameTree(null,null)
+//      (true)                  (true)                  (true)              (true)
