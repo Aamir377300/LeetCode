@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aamir377300/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Aamir377300/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/Aamir377300/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aamir377300/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Aamir377300/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aamir377300/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aamir377300/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Aamir377300/LeetCode/tree/master/1013-fibonacci-number) |
