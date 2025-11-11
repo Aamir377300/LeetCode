@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aamir377300/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aamir377300/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Aamir377300/LeetCode/tree/master/0290-word-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/Aamir377300/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
