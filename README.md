@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aamir377300/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aamir377300/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/Aamir377300/LeetCode/tree/master/0290-word-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aamir377300/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aamir377300/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Tree
 |  |
 | ------- |
