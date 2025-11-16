@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/Aamir377300/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Aamir377300/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aamir377300/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Recursion
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/Aamir377300/LeetCode/tree/master/0290-word-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Aamir377300/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aamir377300/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
