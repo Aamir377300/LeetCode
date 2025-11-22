@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Aamir377300/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aamir377300/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aamir377300/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Aamir377300/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2625-increment-submatrices-by-one](https://github.com/Aamir377300/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aamir377300/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aamir377300/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aamir377300/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
