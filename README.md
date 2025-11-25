@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Aamir377300/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aamir377300/LeetCode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Aamir377300/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Aamir377300/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aamir377300/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aamir377300/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aamir377300/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Aamir377300/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aamir377300/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aamir377300/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
