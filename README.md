@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aamir377300/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aamir377300/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aamir377300/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Aamir377300/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aamir377300/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aamir377300/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Aamir377300/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Aamir377300/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aamir377300/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/Aamir377300/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Aamir377300/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
 | ------- |
