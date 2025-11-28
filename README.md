@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Aamir377300/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aamir377300/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aamir377300/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Aamir377300/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aamir377300/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aamir377300/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aamir377300/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Aamir377300/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
