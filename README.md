@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aamir377300/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aamir377300/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aamir377300/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aamir377300/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Aamir377300/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Aamir377300/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aamir377300/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aamir377300/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,8 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aamir377300/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
 ## Sliding Window
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Aamir377300/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
