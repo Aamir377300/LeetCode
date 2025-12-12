@@ -3,6 +3,7 @@ class Solution {
         int n= s.length();
 
         boolean[] remove = new boolean[n];
+        // ys question me stack ka kuch bhi need nahi hai just need to check on the valid parentheses
         Stack<Integer> st = new Stack<>(); // in the stack we put the index
 
         // case1: mark if the first ')' as invalid and add the '(' and then ')'
