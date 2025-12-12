@@ -13,28 +13,33 @@
  *     }
  * }
  */
+ // leaf node jis ka koi child na ho
+ // question is asking, start from any node and go till the leaf node and sum of that is equal to targetSum then true otherwise false
 class Solution {
+    int target;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        if (root == null) {
+        target = targetSum; // helper ko targetSum use karna hai but we are unable to do it directly so we make a global variable and then use it
+
+        return helper(root, 0);
+        
+    }
+
+    private boolean helper(TreeNode root, int Csum){
+        if(root == null){
             return false;
         }
 
-        // Base Case: Check if it's a leaf node AND the current node's value 
-        // equals the remaining target sum.
-        if (root.left == null && root.right == null) {
-            if(root.val == targetSum){
-                return true;
-            }
-            else{
-                return false;
-            }
+        Csum = Csum + root.val;
+
+        // check if the root has leaf node
+        if(root.left == null && root.right == null){
+            return Csum == target; // if this correct return true otherwise false
         }
 
-        // Recursive Step: Subtract the current node's value and search in subtrees.
-        int remainingSum = targetSum - root.val;
+        boolean Lans = helper(root.left, Csum);
+        boolean Rans = helper(root.right, Csum);
 
-        // Check left OR right subtree.
-        return hasPathSum(root.left, remainingSum) || 
-               hasPathSum(root.right, remainingSum);
+        return Lans || Rans;
+
     }
 }
