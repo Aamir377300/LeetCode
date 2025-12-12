@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/Aamir377300/LeetCode/tree/master/0290-word-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aamir377300/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Aamir377300/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aamir377300/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aamir377300/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aamir377300/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aamir377300/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aamir377300/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aamir377300/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
