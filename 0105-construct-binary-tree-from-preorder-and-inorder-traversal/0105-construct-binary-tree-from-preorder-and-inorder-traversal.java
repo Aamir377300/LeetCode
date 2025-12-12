@@ -14,6 +14,9 @@
  * }
  */
 
+// https://www.notion.so/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-280a03f3fefa80df8749c226ba9c3724
+
+
  // preorder(NLR) ka first element told us about the Root but then we do not know the which is left and right join with the root node, the inorder come here due to root ka node kojo us ke left me left subtree me hoga and us ke right wala right subtree me hoga and ye ysi trah for all use 
 
 // preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
