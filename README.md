@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aamir377300/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Aamir377300/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aamir377300/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/Aamir377300/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aamir377300/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aamir377300/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aamir377300/LeetCode/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aamir377300/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aamir377300/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aamir377300/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aamir377300/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
