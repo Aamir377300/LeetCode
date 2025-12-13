@@ -18,16 +18,17 @@ class Solution {
         if(root == null){
             return null;
         }
-
-        
-        if(key < root.val){// left me ja
+// left < root < right
+        if(key < root.val){ // 
             root.left = deleteNode(root.left, key);
         }
-        else if(key > root.val){// right me ja
+        else if(root.val < key){
             root.right = deleteNode(root.right, key);
         }
-        else{ // root.val == key
-            // if one child or no child 
+        else{
+            // if root.val == key {hamee yse hatna hoga and BST aise set karna hoga ki BST ke rule wo follow ho}
+
+            // case1: if the one child
             if(root.left == null){
                 return root.right;
             }
@@ -35,24 +36,21 @@ class Solution {
                 return root.left;
             }
 
-            int maxValue = MaxLeftSubtree(root);
-            root.val = maxValue;
+            // case2: if left and right child both present (tricky one (we have to remove it and transfer so the BST rule must be validate))
 
-            root.left = deleteNode(root.left, maxValue);
+            int leftmaxVal = MaxLeftSubtree(root);
+            root.val = leftmaxVal;
 
-
+            root.left = deleteNode(root.left, leftmaxVal);
         }
-
         return root;
     }
-
-    public int MaxLeftSubtree(TreeNode root){
+    private int MaxLeftSubtree(TreeNode root){
         root = root.left;
 
-        while(root.right != null){
+        while(root.right != null){ // right ki taraf jaye gii kukui udhar hi max value hi hoga
             root = root.right;
         }
-
         return root.val;
     }
 }
