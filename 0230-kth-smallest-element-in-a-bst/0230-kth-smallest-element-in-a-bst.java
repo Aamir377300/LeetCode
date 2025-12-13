@@ -20,11 +20,13 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         inorder(root);
 
+// map me dal de with the first as the indexed which is act as the k and the second as there element of the list 
         Map<Integer, Integer> mp = new HashMap<>();
         for(int i=0; i<lt.size(); i++){
-            mp.put(i+1,lt.get(i));
+            mp.put(i+1,lt.get(i)); // i+1 due to 1-indexed rule
         }
 
+        // get the answer from the map as i put the k things
         return mp.get(k);
     }
 
