@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aamir377300/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Aamir377300/LeetCode/tree/master/1217-relative-sort-array) |
+| [2092-find-all-people-with-secret](https://github.com/Aamir377300/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Aamir377300/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3433-count-mentions-per-user](https://github.com/Aamir377300/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Aamir377300/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aamir377300/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aamir377300/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Aamir377300/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Aamir377300/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aamir377300/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aamir377300/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Aamir377300/LeetCode/tree/master/0994-rotting-oranges) |
+| [2092-find-all-people-with-secret](https://github.com/Aamir377300/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Aamir377300/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/Aamir377300/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aamir377300/LeetCode/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/Aamir377300/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Geometry
 |  |
 | ------- |
