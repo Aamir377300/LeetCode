@@ -13,33 +13,23 @@
  *     }
  * }
  */
- // leaf node jis ka koi child na ho
- // question is asking, start from any node and go till the leaf node and sum of that is equal to targetSum then true otherwise false
+
+// har node ki taraf jao and ys me se ys ka node value subtract with the targetSum and if in the last (leaf node), if root value and targetSum sum is same then true or otherwise false
 class Solution {
-    int target;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        target = targetSum; // helper ko targetSum use karna hai but we are unable to do it directly so we make a global variable and then use it
 
-        return helper(root, 0);
-        
-    }
+        // Base case
+        if (root == null) return false;
 
-    private boolean helper(TreeNode root, int Csum){
-        if(root == null){
-            return false;
+        // If leaf node, check sum
+        if (root.left == null && root.right == null) { // leaf node case (above mention)
+            return targetSum == root.val;
         }
 
-        Csum = Csum + root.val;
+        // Recur for left and right
+        boolean left = hasPathSum(root.left, targetSum - root.val);
+        boolean right = hasPathSum(root.right, targetSum - root.val);
 
-        // check if the root has leaf node
-        if(root.left == null && root.right == null){
-            return Csum == target; // if this correct return true otherwise false
-        }
-
-        boolean Lans = helper(root.left, Csum);
-        boolean Rans = helper(root.right, Csum);
-
-        return Lans || Rans;
-
+        return left || right;
     }
 }
