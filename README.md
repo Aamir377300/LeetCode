@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aamir377300/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Aamir377300/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aamir377300/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aamir377300/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aamir377300/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aamir377300/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aamir377300/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aamir377300/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aamir377300/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aamir377300/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aamir377300/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aamir377300/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Aamir377300/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aamir377300/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aamir377300/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Aamir377300/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Aamir377300/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
