@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Aamir377300/LeetCode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Aamir377300/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Aamir377300/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3637-trionic-array-i](https://github.com/Aamir377300/LeetCode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aamir377300/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Aamir377300/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
