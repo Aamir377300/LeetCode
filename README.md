@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Aamir377300/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aamir377300/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Aamir377300/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aamir377300/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aamir377300/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aamir377300/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aamir377300/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aamir377300/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aamir377300/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aamir377300/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aamir377300/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Aamir377300/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Aamir377300/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Aamir377300/LeetCode/tree/master/1013-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aamir377300/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aamir377300/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aamir377300/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aamir377300/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
