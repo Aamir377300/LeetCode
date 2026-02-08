@@ -28,8 +28,8 @@ class Solution {
         
     }
 
-    public int Height(TreeNode root) {
-        if (root == null) return 0;
+    public boolean Height(TreeNode root) {
+        if (root == null) return false;
 
         int leftHt = Height(root.left);
         if (leftHt == -1) return -1; // \U0001f448 it helps for some edges cases
