@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aamir377300/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aamir377300/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Aamir377300/LeetCode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Aamir377300/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Aamir377300/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aamir377300/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aamir377300/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aamir377300/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Aamir377300/LeetCode/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Aamir377300/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Aamir377300/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 ## Monotonic Stack
 |  |
