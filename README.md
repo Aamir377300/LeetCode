@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Aamir377300/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aamir377300/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Aamir377300/LeetCode/tree/master/1390-four-divisors) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aamir377300/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Aamir377300/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Aamir377300/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aamir377300/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aamir377300/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Aamir377300/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aamir377300/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aamir377300/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aamir377300/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Aamir377300/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aamir377300/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aamir377300/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Aamir377300/LeetCode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Aamir377300/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aamir377300/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aamir377300/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Aamir377300/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aamir377300/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
