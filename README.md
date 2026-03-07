@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aamir377300/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/Aamir377300/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Aamir377300/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aamir377300/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Aamir377300/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aamir377300/LeetCode/tree/master/0090-subsets-ii) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aamir377300/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Aamir377300/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Aamir377300/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Aamir377300/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aamir377300/LeetCode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Aamir377300/LeetCode/tree/master/0401-binary-watch) |
