@@ -1,37 +1,18 @@
-// class Solution {
-//     public int climbStairs(int n) {
-//         // Base cases
-//         if (n == 1) return 1;
-//         if (n == 2) return 2;
-
-//         // Recursive case
-//         return climbStairs(n - 1) + climbStairs(n - 2);
-//     }
-// }
-
-// It is solve(run) but on submit, it give us the Time limit exceed
-
-// ----------------------------
-
-// using the Iterative DP
-
 class Solution {
     public int climbStairs(int n) {
+        if (n <= 2) return n; // If n=1 return 1, if n=2 return 2
 
-        if (n <= 2) return n;
-
-        int oneStepBefore = 2;  // ways to reach step 2
-        int twoStepsBefore = 1; // ways to reach step 1
-
-        int ways = 0;
+        int a = 1; // Ways to reach stair 1
+        int b = 2; // Ways to reach stair 2
 
         for (int i = 3; i <= n; i++) {
-            ways = oneStepBefore + twoStepsBefore;
-
-            twoStepsBefore = oneStepBefore;
-            oneStepBefore = ways;
+            int c = a + b; // Current = prev1 + prev2
+            
+            // Shift forward
+            a = b; // Old 'b' becomes the new 'a'
+            b = c; // New 'c' becomes the new 'b'
         }
 
-        return ways;
+        return b; // Return b because it holds the latest total
     }
 }
