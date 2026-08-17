@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aamir377300/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Aamir377300/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Aamir377300/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aamir377300/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Aamir377300/LeetCode/tree/master/0070-climbing-stairs) |
